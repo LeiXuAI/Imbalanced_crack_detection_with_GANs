@@ -1,3 +1,7 @@
-# This repositories is a CVDI project about anomaly detection on road surfaces with GANs.
-Usually anomalous parts only occupy a minor proportion of a road surface image, hence it is difficult to tackle such tasks using general networks. The Generative Adversarial Networks architecture has achieved prosporous outcomings on tackling various tasks on imbalanced datasets. 
-Code will be released when the paper is released in the next several months.
+# Revisiting Generative Adversarial Networks for Binary Semantic Segmentation on Imbalanced Datasets
+
+# PROFESSIONAL  README GENERATOR
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2402.02245)
+![Python 3.8](https://img.shields.io/badge/python-3.8.16-green.svg)
+![Tensorflow 1.5](https://img.shields.io/badge/Tensorflow-1.15-blue.svg)
+[![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
